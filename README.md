@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @phoenixofhp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++/c/Asm
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm passionate about C/C++ embedded development, particularly targeting microcontrollers like ESP, STM, and AVR. I enjoy creating cross-platform Windows/Linux/Unix programs, and for desktop applications, I find Qt's clear C++ approach is very effective.
+- 🌱 I’m currently learning C/C++/ASM
 - 📫 How to reach me 2minesweeper2@gmail.com
 
 <!---
